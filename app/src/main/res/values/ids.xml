@@ -4,48 +4,48 @@ Google Play game services IDs.
 Save this file as res/values/games-ids.xml in your project.
 -->
 <resources>
-    <!-- app_id -->
-    <string name="app_id" translatable="false">607257803697</string>
-    <!-- achievement Level 1 -->
-    <string name="achievement_level_1" translatable="false">CgkIsfeKm9YREAIQAA</string>
-    <!-- achievement Level 2 -->
-    <string name="achievement_level_2" translatable="false">CgkIsfeKm9YREAIQAQ</string>
-    <!-- achievement Level 3 -->
-    <string name="achievement_level_3" translatable="false">CgkIsfeKm9YREAIQAg</string>
-    <!-- achievement Level 4 -->
-    <string name="achievement_level_4" translatable="false">CgkIsfeKm9YREAIQAw</string>
-    <!-- achievement Level 5 -->
-    <string name="achievement_level_5" translatable="false">CgkIsfeKm9YREAIQBA</string>
-    <!-- achievement Level 6 -->
-    <string name="achievement_level_6" translatable="false">CgkIsfeKm9YREAIQBQ</string>
-    <!-- achievement Level 7 -->
-    <string name="achievement_level_7" translatable="false">CgkIsfeKm9YREAIQBg</string>
-    <!-- achievement Level 8 -->
-    <string name="achievement_level_8" translatable="false">CgkIsfeKm9YREAIQBw</string>
-    <!-- achievement Level 9 -->
-    <string name="achievement_level_9" translatable="false">CgkIsfeKm9YREAIQCA</string>
-    <!-- achievement Level 10 -->
-    <string name="achievement_level_10" translatable="false">CgkIsfeKm9YREAIQCQ</string>
-    <!-- achievement Level 11 -->
-    <string name="achievement_level_11" translatable="false">CgkIsfeKm9YREAIQCg</string>
-    <!-- achievement Level 12 -->
-    <string name="achievement_level_12" translatable="false">CgkIsfeKm9YREAIQCw</string>
-    <!-- achievement Level 13 -->
-    <string name="achievement_level_13" translatable="false">CgkIsfeKm9YREAIQDA</string>
-    <!-- achievement Level 14 -->
-    <string name="achievement_level_14" translatable="false">CgkIsfeKm9YREAIQDQ</string>
-    <!-- achievement Level 15 -->
-    <string name="achievement_level_15" translatable="false">CgkIsfeKm9YREAIQDg</string>
-    <!-- achievement Level 16 -->
-    <string name="achievement_level_16" translatable="false">CgkIsfeKm9YREAIQDw</string>
-    <!-- achievement Level 17 -->
-    <string name="achievement_level_17" translatable="false">CgkIsfeKm9YREAIQEA</string>
-    <!-- achievement Level 18 -->
-    <string name="achievement_level_18" translatable="false">CgkIsfeKm9YREAIQEQ</string>
-    <!-- achievement Level 19 -->
-    <string name="achievement_level_19" translatable="false">CgkIsfeKm9YREAIQEg</string>
-    <!-- achievement Level 20 -->
-    <string name="achievement_level_20" translatable="false">CgkIsfeKm9YREAIQEw</string>
-    <!-- leaderboard LeaderBoard -->
-    <string name="leaderboard_leaderboard" translatable="false">CgkIsfeKm9YREAIQFA</string>
+  <!-- app_id -->
+  <string name="app_id" translatable="false">446127904806</string>
+  <!-- achievement level 1 -->
+  <string name="achievement_level_1" translatable="false">CgkIprCu-v0MEAIQJQ</string>
+  <!-- achievement level 2 -->
+  <string name="achievement_level_2" translatable="false">CgkIprCu-v0MEAIQJg</string>
+  <!-- achievement level 3 -->
+  <string name="achievement_level_3" translatable="false">CgkIprCu-v0MEAIQJw</string>
+  <!-- achievement level 20 -->
+  <string name="achievement_level_20" translatable="false">CgkIprCu-v0MEAIQOA</string>
+  <!-- achievement level 19 -->
+  <string name="achievement_level_19" translatable="false">CgkIprCu-v0MEAIQNw</string>
+  <!-- achievement level 18 -->
+  <string name="achievement_level_18" translatable="false">CgkIprCu-v0MEAIQNg</string>
+  <!-- achievement level 17 -->
+  <string name="achievement_level_17" translatable="false">CgkIprCu-v0MEAIQNQ</string>
+  <!-- achievement level 16 -->
+  <string name="achievement_level_16" translatable="false">CgkIprCu-v0MEAIQNA</string>
+  <!-- achievement level 15 -->
+  <string name="achievement_level_15" translatable="false">CgkIprCu-v0MEAIQMw</string>
+  <!-- achievement level 14 -->
+  <string name="achievement_level_14" translatable="false">CgkIprCu-v0MEAIQMg</string>
+  <!-- achievement level 13 -->
+  <string name="achievement_level_13" translatable="false">CgkIprCu-v0MEAIQMQ</string>
+  <!-- achievement level 12 -->
+  <string name="achievement_level_12" translatable="false">CgkIprCu-v0MEAIQMA</string>
+  <!-- achievement level 11 -->
+  <string name="achievement_level_11" translatable="false">CgkIprCu-v0MEAIQLw</string>
+  <!-- achievement level 10 -->
+  <string name="achievement_level_10" translatable="false">CgkIprCu-v0MEAIQLg</string>
+  <!-- achievement level 9 -->
+  <string name="achievement_level_9" translatable="false">CgkIprCu-v0MEAIQLQ</string>
+  <!-- achievement level 8 -->
+  <string name="achievement_level_8" translatable="false">CgkIprCu-v0MEAIQLA</string>
+  <!-- achievement level 7 -->
+  <string name="achievement_level_7" translatable="false">CgkIprCu-v0MEAIQKw</string>
+  <!-- achievement level 6 -->
+  <string name="achievement_level_6" translatable="false">CgkIprCu-v0MEAIQKg</string>
+  <!-- achievement level 5 -->
+  <string name="achievement_level_5" translatable="false">CgkIprCu-v0MEAIQKQ</string>
+  <!-- achievement level 4 -->
+  <string name="achievement_level_4" translatable="false">CgkIprCu-v0MEAIQKA</string>
+  <!-- leaderboard LeaderBoard -->
+  <string name="leaderboard_leaderboard" translatable="false">CgkIprCu-v0MEAIQAA</string>
 </resources>
